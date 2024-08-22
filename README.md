@@ -1,5 +1,7 @@
 # NANDFIX - The Nintendo Switch Unbricker
 
+https://github.com/sthetix/NANDFIX/blob/main/nandfix.jpg
+
 NANDFIX is a versatile tool that allows users to unbrick, rebuild, or upgrade the Nintendo Switch consoles. It features a graphical user interface (GUI) that is powered by the EmmcHaccGen and NxNandManager cores, making complex tasks like NAND generation, decryption, encryption, and rebuilding straightforward and accessible. NANDFIX serves as a user-friendly front end, designed to reduce errors and streamline operations compared to using command-line tools alone.
 
 ## Features
