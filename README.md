@@ -24,6 +24,8 @@ Before using NANDFIX, ensure you have:
 
 ## Usage
 
+Make sure the NANDFIX app is in the same directory / location / folder as the donor_rawnand.bin
+
 1. **Launch NANDFIX**:
    - Double-click `NANDFIX.exe` to start the application.
 
