@@ -1,0 +1,34 @@
+# Python virtual environments
+venv/
+.venv/
+env/
+.env
+
+# User-defined folders
+archive/
+releases/
+icons/
+
+# Build artifacts
+# Ignore the compiled launcher since it's generated from source
+*.exe
+dist/
+build/
+
+# Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Log and configuration files
+# These often contain user-specific data or error info
+error_log.txt
+config.ini
+
+# Release pack
+*.zip
+
+installation.ini
+
+.claude/

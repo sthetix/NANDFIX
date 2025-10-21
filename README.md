@@ -1,9 +1,7 @@
 # NANDFIX - The Nintendo Switch Unbricker
 
 <div align="center">
-  <img src="https://github.com/sthetix/NANDFIX/blob/main/nandfix.jpg" alt="NANDFIX" width="400"/>
-  <br>
-  <br>
+  <img src="images/preview.jpg" alt="NANDFIX" width="400"/>
 </div>
 
 NANDFIX is a versatile tool that allows users to unbrick, rebuild, or upgrade the Nintendo Switch consoles. It features a graphical user interface (GUI) that is powered by the EmmcHaccGen and NxNandManager cores, making complex tasks like NAND generation, decryption, encryption, and rebuilding straightforward and accessible. NANDFIX serves as a user-friendly front end, designed to reduce errors and streamline operations compared to using command-line tools alone.
@@ -45,3 +43,11 @@ NANDFIX is built on the powerful cores of two key projects:
 
 - **EmmcHaccGen**: https://github.com/suchmememanyskill/EmmcHaccGen
 - **NxNandManager**: https://github.com/eliboa/NxNandManager
+
+### Support My Work
+
+If you find this project useful, please consider supporting me by buying me a coffee!
+
+<a href="https://www.buymeacoffee.com/sthetixofficial" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" >
+</a>
